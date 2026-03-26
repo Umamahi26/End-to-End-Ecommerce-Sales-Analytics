@@ -93,13 +93,13 @@ The project demonstrates strong hands-on expertise in:
 ## 📷 Dashboard Preview
 
 ### Sales Overview
-![Sales](images/sales.png)
+![Sales](SalesOverviewPowerBIDashboard.jpg)                       
 
 ### Product Performance
-![Product](images/profit.png)
+![Product](PowerBIProductPerformanceDashboard.jpg)
 
 ### Customer Insights
-![Customer](images/region.png)
+![Customer](PowerBICustomerInsightsDashboard.jpg)
 
 ---
 
